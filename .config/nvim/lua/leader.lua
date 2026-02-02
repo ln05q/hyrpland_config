@@ -1,0 +1,2 @@
+-- [[       LEADER      ]] --
+vim.g.mapleader = " "
